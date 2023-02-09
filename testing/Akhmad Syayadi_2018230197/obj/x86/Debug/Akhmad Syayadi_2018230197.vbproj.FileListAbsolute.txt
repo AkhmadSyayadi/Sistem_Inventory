@@ -1,0 +1,90 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Login.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.xml
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.xml
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Barang.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Harga.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Hilang.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Pemesan.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Reject.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Supplier.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Login.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Menu_Admin_Gudang.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Menu_Admin_Pemasaran.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Menu_Super_Admin.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Registervb.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Stok_Keluar.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Stok_Masuk.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbproj.ResolveComReference.cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Interop.Crystal.dll
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\AxInterop.Crystal.dll
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbproj.ResolveComReference.cache
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.exe
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.xml
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.pdb
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.exe
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.pdb
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.xml
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Interop.Crystal.dll
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\AxInterop.Crystal.dll
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbprojResolveAssemblyReference.cache
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Barang.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Harga.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Hilang.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Pemesan.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Reject.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Supplier.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Login.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Menu_Admin_Gudang.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Menu_Admin_Pemasaran.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Menu_Super_Admin.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Resources.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Registervb.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Stok_Keluar.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Stok_Masuk.resources
+C:\Users\Windows 10 Pro\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbproj.ResolveComReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Akhmad Syayadi_2018230197.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\Interop.Crystal.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\bin\Debug\AxInterop.Crystal.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Barang.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Harga.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Hilang.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Pemesan.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Reject.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Data_Supplier.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Login.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Menu_Admin_Gudang.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Menu_Admin_Pemasaran.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Menu_Super_Admin.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Registervb.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Stok_Keluar.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad_Syayadi_2018230197.Stok_Masuk.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Akhmad Syayadi_2018230197\Akhmad Syayadi_2018230197\obj\x86\Debug\Akhmad Syayadi_2018230197.vbproj.GenerateResource.Cache
